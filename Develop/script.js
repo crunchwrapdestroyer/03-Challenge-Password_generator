@@ -12,3 +12,17 @@ function writePassword() {
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
 
+// Add function: when user clicks "generate password" button,
+// then page displays a series of prompts to choose from: 
+// 
+
+const generate = document.addEventListener('generate');
+  function plength() {
+ 
+}
+
+
+const userInput = prompt('How many characters should your password have?');
+  if (userInput !== null) {
+
+  } 
