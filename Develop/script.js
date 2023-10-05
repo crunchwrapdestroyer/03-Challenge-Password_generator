@@ -27,7 +27,7 @@ function generatePassword () {
  console.log("RESULTS: ", results);
  return results.
  
-}
+
 
 // Add event listener to generate button
 generateBtn.addEventListener("click", generatePassword);
@@ -40,8 +40,4 @@ generateBtn.addEventListener("click", generatePassword);
   
 
 // const generate = document.addEventListener('generate');
-//   function plength() {
- 
-// }
-
-
+//   function plength()
