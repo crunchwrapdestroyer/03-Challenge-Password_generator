@@ -1,2 +1,4 @@
 # 03-Challenge-Password_generator
-Create password generator that responds to user criteria for randomly generated passwords
+In this project I created a password generator that responds to user criteria for randomly generated passwords. The user will click the "Generate Password" button and a series of prompts will appear for the user to specify how many characters should be included, and whether to include lower case letters, upper case letters and special characters. The JavaScript code defines the arrays for the lower case letters, upper case letters and special characters. It then defines functions for generating the password and selecting the text area for the output. The user must choose a password length of between 8 and 128 characters, and if they choose a length outside of this parameter the program will alert them and cancel the function. If the user opts out of both lower case and upper case letters, the program will alert the user they must select at least one, and then cancel the function. After all criteria have been selected by the user, a randomly generated password will appear in the text area. 
+
+![Alt Text](program_screenshot.png)
